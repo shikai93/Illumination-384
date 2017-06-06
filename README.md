@@ -33,6 +33,6 @@ Existing lab setup at Dr. Finan's lab
 
 4. Run 'my_DAQmx_quadencoder.vi' and 'movement_control_panel.vi'
 
-5. Either hit the red push button on the provided housing, or click the 'INJURE' button on 'movement_control_panel.vi'
+5. When 'Superlight Status' enters 'Waiting for Trigger' state, either hit the red push button on the provided housing, or click the 'INJURE' button on 'movement_control_panel.vi'
 
 6. Enjoy!
