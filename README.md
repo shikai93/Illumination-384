@@ -25,7 +25,7 @@ Existing lab setup at Dr. Finan's lab
 
 2. Install/Purchase the latest LabVIEW Environment here: http://www.ni.com/en-us/shop/labview.html
 
-3. Open the Arduino IDE, and upload 'eecs384-complete_without_button.ino' to the Metro Mini 
+3. Open the Arduino IDE, and upload 'eecs384-complete_without_button.ino' in 'eecs384-complete_without_button' to the Metro Mini 
 
       3a. If your computer does not detect the Metro Mini on a USB port, install the Metro Mini driver here (Windows): https://learn.adafruit.com/adafruit-arduino-ide-setup/windows-setup
 
