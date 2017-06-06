@@ -1,4 +1,4 @@
-# DSGN 384: Interdisciplinary Design Projects 2, Integrated Illumination System
+# DSGN 384: Integrated Illumination System
 
 Spring 2017, Northwestern University
 
